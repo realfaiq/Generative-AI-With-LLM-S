@@ -19,7 +19,7 @@ In the initial stages of this project, I delved into the fundamentals of Generat
 
 ## Getting Started
 To get started with the project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/Generative-AI-With-LLMs.git`
+1. Clone the repository: `git clone https://github.com/realfaiq/Generative-AI-With-LLMS`
 2. Install dependencies.
 3. Explore the Jupyter notebooks to understand the code implementations.
 
