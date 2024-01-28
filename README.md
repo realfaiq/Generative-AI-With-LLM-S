@@ -10,6 +10,7 @@ Welcome to the "Generative AI With LLM's" repository! In this project, I explore
 - [Full-Fine Tuning](#full-fine-tuning)
 - [Evaluation](#evaluation)
 - [PEFT and LoRA](#peft-and-lora)
+- [Reinforcement Learning With Human Feedback](#reinforcement-learning-with-human-feedback)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -37,6 +38,9 @@ To assess the quality of the generative outputs, I employed the ROUGE score as a
 
 ## PEFT and LoRA
 A significant aspect of this project involves the use of Progressive Embedding Fine-Tuning (PEFT) and, more specifically, Low Resource Adaptation (LoRA). These techniques were employed to further fine-tune the model and enhance its generative capabilities.
+
+## Reinforcement Learning With Human Feedback
+Exploring beyond traditional fine-tuning, I delved into Reinforcement Learning with Human Feedback, leveraging insights from human evaluators to refine the model's performance. This approach provides a more interactive and dynamic training experience.
 
 ## Results
 Details of the results obtained from the various stages of model training, fine-tuning, and evaluation are documented in the project's notebooks and can be explored to gain insights into the model's performance.
